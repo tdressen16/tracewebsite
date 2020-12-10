@@ -12,7 +12,7 @@ tag: pc
 **Role**: Game Designer, Artist, Programmer  
 **Engine**: Unity  
 **Platform**: PC  
-**Duration**: 3 Week
+**Duration**: 3 Weeks
 
 ## Project Description
 Dungeon Putter is a game I created for an assignment in my Game Design class. It was designed as a combination of dungeon crawler and mini-golfing game. Players take control of a team of three mini-golf balls that each have unique classes and abilities. To gain access to the hole at the end of the stage, players must use their abilities to defeat all of the enemies on the course.
