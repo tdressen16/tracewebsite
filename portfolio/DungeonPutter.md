@@ -8,7 +8,7 @@ description: Mini Golf Unity Game
 tag: pc
 ---
 # Dungeon Putter
-**Team Size**: Solo Project 
+**Team Size**: Solo Project  
 **Role**: Game Designer, Artist, Programmer  
 **Engine**: Unity  
 **Platform**: PC  
@@ -17,6 +17,7 @@ tag: pc
 ## Project Description
 Dungeon Putter is a game I created for an assignment in my Game Design class. It was designed as a combination of dungeon crawler and mini-golfing game. Players take control of a team of three mini-golf balls that each have unique classes and abilities. To gain access to the hole at the end of the stage, players must use their abilities to defeat all of the enemies on the course.
 
+## Try it out!
 Play the game [here](https://tdressen.itch.io/dungeon-putter)!
 
 ## Project Media
