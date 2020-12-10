@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Gang Beats
+title: Jelly Tracks
 type: portfolio
 featured: false
-thumbnail-url: JamSession\Jam3.png
+thumbnail-url: JamSession\Jam2.png
 description: Rhythm Game
 tag: pc
 ---
 
-# Gang Beats
+# Jelly Tracks
 **Team Size**: 5 Members  
 **Role**: Game Designer, Co-Producer, Artist  
 **Engine**: Unity  
@@ -17,9 +17,9 @@ tag: pc
 
 ## Project Description
 
-Gang Beats was part of an ETC project called Jam Session, focused on exploring rhythm games.
+Jelly Tracks was part of an ETC project called Jam Session, focused on exploring rhythm games.
 
-Gang Beats is a 2-4 player fighting game where players hit each other on the beat in order to be the last one standing.
+Jelly Tracks is a co-op rhythm puzzle game where two players work together to clear a board of enemies. Each enemy is associated with a beat within the “square per beat” track, as well as a color. Guests must communicate with each other to time their actions to ultimately eliminate all of the colored obstacles.
 
 ## Contributions
 As a **game designer**, I led my team in brainstorming sessions throughout the semester. Many of our ideas for game prototypes came from these sessions. I also worked with my team to develop ideas and mechanics for each of the individual prototypes, and implemented some of those ideas in-engine.
@@ -30,24 +30,24 @@ As an **artist** for the project, I contributed models, textures, and particle e
 
 
 ## Project Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKE_fROf7No" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ji7s97Yniks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Prompt**: Can we make a multiplayer game where a player’s rhythmic action directly affects other players?
+**Prompt**: How can we create a rhythm puzzle game?
 
 #### Prototype Goals
-- We found that most multiplayer rhythm games simply had players competing in terms of score – there wasn’t much competition, as the two players would play as if it were single-player and have their scores compared at the end. We wanted to try a game where player’s rhythmic accuracy impacts other players in the game.
-- We also thought it could be very interesting to make a real-time fighting game using rhythmic accuracy as a method of combat.
+- We wanted to explore an example of a rhythm puzzle game
+- We found the concept of building a rhythm with a partner to be very intriguing.
 
 #### Design Thoughts
-- In one of the earlier iterations, determining which player “won” a combat (e.g. if players hit each other on the same beat) was resolved on the beat itself, which meant that players that hit early would always have an advantage over those that hit late. We later realized that the only way we could resolve conflicts fairly was to wait for the next beat to decide. This, along with the playing of a sound effect to signify a successful hit, created a pretty cool off-beat rhythm that was surprisingly pleasant to hear.
-- While we designed the “clap” audio cue to be extremely prominent, it became clear during playtesting that players desired more visual feedback. We added the floor flashing effect in a later iteration, which players responded positively to.
-- Stalemates became very common once people were used to the beatmap. In order to accommodate more skilled players with a good understanding of the song, more mechanics would need to be implemented.
+- While we initially wanted to design a puzzle game, introducing a co-op element early on so that the game became more accessible, ended up making it less of a rhythm puzzle game and more of a coordination or communication challenge.
+- We played around with multiple ways to make the puzzle element of the game more robust — with no goal or limitations, the puzzles wouldn’t have true solutions, and players could exploit gameplay mechanics (sending out a projectile on every beat) to complete the puzzles with no consequence.
+	- We ended up deciding to force players to complete the puzzle within a time limit, respawning all enemies if players didn’t succeed.
+	- We kept track of the number of projectiles players have sent during the course of the level. A lower number of projectiles used = better score.
 
 #### Lessons Learned
-- Discrete feedback is necessary for players to know how well they’re doing — accuracy had to be categorized into grades, we needed the colored rings to inform players which grade they were given
-- In a game as busy as this one, audio cues alone are not enough to get players’ attention, especially first-time players. Visual feedback is incredibly important.
-- Conflicts on a certain beat had to be resolved on the next beat in order to equally prioritize early and late hits
-	- Should early and late hits be equally prioritized? We can investigate this in a different prototype.
-- Music needs to be less dense, “soundtrack like”, and more heavily focused on the cues (and cue leadup). Extraneous information that could be interpreted as a cue (i.e., the “cooler” drumline) should be minimized.  
+- There is great debate about whether or not this game was an example of either a rhythm game, or a puzzle game.
+- Visual feedback was important!
+- This game became a stronger rhythm game AND a stronger puzzle game when we removed the co-op element. Before, players were focusing less on the music and more on coordinating their button presses with their partner. Now, players have to rely more on the music and their own hand-eye coordination when executing the solution to the puzzle.
+- For timed levels: players disliked the fact that the timers started immediately on the next beat after they timed out. They wanted to use the time to plan their next move, but would often have to wait for the timer to start again from the top so they had enough time to execute the whole solution.
 
 ---
