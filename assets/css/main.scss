@@ -1,0 +1,94 @@
+---
+---
+
+@import 'bootstrap/bootstrap';
+@import 'variables';
+
+h1 {
+  font-family: $headerfont;
+  font-weight: bold;
+  color: $dark-color;
+}
+
+h2 {
+  font-family: $headerfont;
+  font-weight: bold;
+  color: $dark-color;
+}
+
+p {
+  font-family:$bodyfont;
+}
+
+a {
+  color: $accent-color;
+}
+
+a:hover {
+  color: $accent-color;
+}
+.container
+{
+  max-width: 60%;
+}
+
+.content-style {
+
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(245, 245, 245, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  font-family:$bodyfont;
+  text-align: center;
+  background-color: $dark-color;
+  color: $light-color;
+}
+
+.navbar {
+  background-color: $dark-color;
+}
+
+.navbar-brand {
+  font-family: $headerfont;
+  font-weight: bold;
+  color: $accent-color;
+}
+
+.navbar-nav {
+  font-family: $headerfont;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: $light-color;
+}
+
+.text-light {
+  color: $light-color;
+}
+
+.grid-container {
+  max-width: 90%;
+  margin: auto;
+}
+
+.grid-header {
+  font-family: $headerfont;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: $dark-color;
+}
+
+.grid-subheader {
+  font-family: $bodyfont;
+  font-size: 1em;
+  line-height: 30%;
+}
