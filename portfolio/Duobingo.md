@@ -20,7 +20,8 @@ This game was designed for the 2019 PIGDA Board Game Jam. The team had less than
 "Duobingo" involves players drawing quick symbols or diagrams to try and get their partners to guess a random phrase.
 
 ## Contributions
-As a **game designer** on this project, I worked with my team towards all aspects of this game, including initial brainstorming, developing game mechanics and ideas, and playtesting.
+**Game Designer**
+- Worked with my team towards all aspects of this game, including initial brainstorming, developing game mechanics and ideas, and playtesting.
 
 ## Project Media
 <img src="../media/Duobingo/DB1.jpg" width="560"/>

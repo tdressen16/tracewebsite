@@ -21,11 +21,15 @@ In this first project for the Building Virtual Worlds course, our prompt was to 
 In this game, you play as the new laser operator in an asteroid mining facility.  When an alien emerges from one of the asteroids, it's up to you to use all of the tools at your disposal to help your co-worker escape!
 
 ## Contributions
-As an **artist**, this was first project for BVW class, so I mainly focused on animations, modeling, and texturing. I modeled and textured many of the props found in the environment as well as modeling, texturing, and animating the alien tentacles.
+**Artist**
+- Focused on animations, modeling, and texturing. I modeled and textured many of the props found in the environment as well as modeling, texturing, and animating the alien tentacles
 
-As a **game designer**, I assisted the team in developing ideas for this project, as well as conducting playtests with our own team members and others not associated with the project. At the start of the project, one of our initial ideas was to create a puzzle game with three distinct puzzles. However, after playtesting and discovering that the puzzles would be difficult to understand in a short time, I worked with my team to transition the game into a more action-oriented experience.
+**Game Designer**
+- Assisted the team in developing ideas for this project, as well as conducting playtests with our own team members and others not associated with the project. At the start of the project, one of our initial ideas was to create a puzzle game with three distinct puzzles. However, after playtesting and discovering that the puzzles would be difficult to understand in a short time, I worked with my team to transition the game into a more action-oriented experience.
 
-As **co-producer**, I worked with my team to ensure that everyone was aware of what work they had been assigned, as well as keeping track of overall progress.
+**Co-producer**
+- Worked with my team to ensure that everyone was aware of what work they had been assigned
+- Kept track of overall progress
 
 ## Project Media
 

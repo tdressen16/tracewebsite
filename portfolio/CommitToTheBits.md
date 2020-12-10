@@ -2,7 +2,7 @@
 layout: default
 title: Commit to the Bits
 type: portfolio
-featured: true
+featured: false
 thumbnail-url: portfolio\Commit.png
 description: Twitch & Improv Research Project
 tag: research
@@ -22,7 +22,10 @@ Commit to the Bits is a discovery project exploring the intersection of improvis
 We established the necessary design principles through methodical playtesting and rapid prototyping, quantitatively and qualitatively exploring the mediums’ overlap over the course of the semester. Take a look at our [website](https://www.etc.cmu.edu/projects/commit-to-the-bits/) to learn more!
 
 ## Contributions
-As a **game designer** on this project, I had many responsibilities. The first of these was leading the team in brainstorming sessions that took on many different formats. These brainstorming sessions led to many ideas that eventually turned into the experiences we fully created. I also built and implemented features into a Unity program that allowed us to switch between games and change stream features, such as the background image or music. Finally, I contributed to the many write ups and postmortems that the team produced over the course of the semester.
+**Game Designer**
+- Led the team in brainstorming sessions that took on many different formats. These brainstorming sessions led to many ideas that eventually turned into the experiences we fully created
+- Built and implemented features into a Unity program that allowed us to switch between games and change stream features, such as the background image or music
+- Contributed to the many write ups and postmortems that the team produced over the course of the semester
 
 ## Project Trailer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PqKdXo-p8q4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  

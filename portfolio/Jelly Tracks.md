@@ -22,11 +22,20 @@ Jelly Tracks was part of an ETC project called Jam Session, focused on exploring
 Jelly Tracks is a co-op rhythm puzzle game where two players work together to clear a board of enemies. Each enemy is associated with a beat within the “square per beat” track, as well as a color. Guests must communicate with each other to time their actions to ultimately eliminate all of the colored obstacles.
 
 ## Contributions
-As a **game designer**, I led my team in brainstorming sessions throughout the semester. Many of our ideas for game prototypes came from these sessions. I also worked with my team to develop ideas and mechanics for each of the individual prototypes, and implemented some of those ideas in-engine.
+**Game Designer**
+- Led my team in brainstorming sessions
+- Worked with my team to develop ideas and mechanics for each of the individual prototypes
+- Implemented ideas in-engine
+- Playtested prototypes throughout lifespan of the game
 
-As **co-producer**, I led daily Scrum meetings for the team. I worked with each member to ensure that they knew what work had to be done for the day, as well as keeping track of what work had already been completed. On top of this, my responsibilities as co-producer led me to writing many postmortems for the prototypes as well as keeping in touch with the many contacts important to the project.
+**Co-producer**
+- Led daily Scrum meetings for the team
+- Worked with each member to ensure that they knew what work had to be done for the day
+- Kept track of what work had already been completed.
+- Wrote postmortems for the prototypes as well as keeping in touch with the many contacts important to the project.
 
-As an **artist** for the project, I contributed models, textures, and particle effects for this game.
+**Artist** 
+- Contributed models, textures, and particle effects for this game.
 
 
 ## Project Video

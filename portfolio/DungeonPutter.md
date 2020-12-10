@@ -2,7 +2,7 @@
 layout: default
 title: Dungeon Putter
 type: portfolio
-featured: false
+featured: true
 thumbnail-url: portfolio\DungeonPutter.png
 description: Mini Golf Unity Game
 tag: pc

@@ -21,11 +21,18 @@ The prompt for this project was to create an experience for a "naive guest". In 
 In this game, you play as a weather god overlooking a small tropical island. Using your powers of rain and lightning, you must help the islanders by watering crops, putting out fires, and more.
 
 ## Contributions
-As an **artist**, I modeled and textured the island and props seen in the game. Alongside that, I also focused on learning and implementing particle effects. Those effects were used in such things as clouds, rain, lightning, fire, and smoke.
+As an **Artist**
+- Modeled and textured the island and props seen in the game
+- Focused on learning and implementing particle effects. Those effects were used in such things as clouds, rain, lightning, fire, and smoke
 
-As a **game designer**, I assisted the team in developing ideas for this project, as well as conducting playtests with our own team members and others not associated with the project. I also used some programming to implement animations and particle effects into the game.
+**Game Designer**
+- Assisted the team in developing ideas for this project,
+- Conducted playtests with our own team members and others not associated with the projec
+- Used some programming to implement animations and particle effects into the game
 
-As **co-producer**, I worked with my team to ensure that everyone was aware of what work they had been assigned, as well as keeping track of overall progress.
+**Co-producer**
+- Worked with my team to ensure that everyone was aware of what work they had been assigned
+- Kept track of overall progress
 
 ## Project Media
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JP_kYGaDHCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

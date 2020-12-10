@@ -4,7 +4,7 @@ title: Kinectic
 type: portfolio
 featured: false
 thumbnail-url: JamSession\Jam5.png
-description: Rhythm Game
+description: VR Rhythm Game
 tag: vr
 ---
 
@@ -22,11 +22,20 @@ Kinectic was part of an ETC project called Jam Session, focused on exploring rhy
 In this game, players must push ball-shaped cues that appear in front of them with a corresponding hand, tracing a line through spherical targets with their movements. The cues appear and disappear with the music. When players are in the flow of the game, it should look like they’re dancing.
 
 ## Contributions
-As a **game designer**, I led my team in brainstorming sessions throughout the semester. Many of our ideas for game prototypes came from these sessions. I also worked with my team to develop ideas and mechanics for each of the individual prototypes, and implemented some of those ideas in-engine.
+**Game Designer**
+- Led my team in brainstorming sessions
+- Worked with my team to develop ideas and mechanics for each of the individual prototypes
+- Implemented ideas in-engine
+- Playtested prototypes throughout lifespan of the game
 
-As **co-producer**, I led daily Scrum meetings for the team. I worked with each member to ensure that they knew what work had to be done for the day, as well as keeping track of what work had already been completed. On top of this, my responsibilities as co-producer led me to writing many postmortems for the prototypes as well as keeping in touch with the many contacts important to the project.
+**Co-producer**
+- Led daily Scrum meetings for the team
+- Worked with each member to ensure that they knew what work had to be done for the day
+- Kept track of what work had already been completed.
+- Wrote postmortems for the prototypes as well as keeping in touch with the many contacts important to the project.
 
-As an **artist** for the project, I contributed models, textures, and particle effects for this game.
+**Artist** 
+- Contributed models, textures, and particle effects for this game.
 
 
 ## Project Video
